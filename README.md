@@ -72,6 +72,6 @@ Diseases were grouped into biologically meaningful classes using rule-based text
 ## Reproducibility 
 
 Pipeline includes: 
-- automated data download script (uberon_download.sh)
+- automated data download script 
 - modular python scripts for each transoformation step
 - intermediate outputs preserved for tracability 
