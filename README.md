@@ -5,10 +5,10 @@ This project analyzes mutation datasets from GlyGen to quantify the distribution
 maps disease ontology identifiers (DOID) to standardized terms, and categorizes diseases into biologically meaningful groups for downstream aggregation and visualization.
 
 ## Data Sources
-- Germline mutation dataset (glycoeffect annotations)
-- Somatic mutation dataset (glycoeffect annotations)
-- Cancer mutation dataset (glycoeffect annotations)
-- Disease Ontology mapping file (HumanDO)
+- Germline mutation dataset (https://data.glygen.org/GLY_000508)
+- Somatic mutation dataset (https://data.glygen.org/GLY_000509)
+- Cancer mutation dataset (https://data.glygen.org/GLY_000507)
+- Disease Ontology mapping file (HumanDO.tsv)
 
 ## Methods 
 
